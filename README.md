@@ -1,16 +1,35 @@
-## Hi, I'm Anna :wave:
+# **Hi, I'm Anna** :wave:
 
-<!--
-**Anna-Guzova/Anna-Guzova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## **I'm intern fullstack developer** :turtle:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+:round_pushpin: **Ukraine, Lviv**
+:love_letter: **Email:** guzovaanuta2@gmail.com
+
+
+### **About Me** :thought_balloon:
+
+I am studying programming languages, English, and am interested in fitness.
+
+### **Technical Skills** :computer:
+
+- HTML
+- CSS, SASS
+- JavaScript
+- React
+- Node.js
+- Git
+
+### **Soft Skills** :high_brightness:
+
+- Communication
+- Teamwork
+- Time management
+- Stress resistance
+
+  
+
+
