@@ -7,6 +7,7 @@
 ---
 
 :round_pushpin: **Ukraine, Lviv**
+
 :love_letter: **Email:** guzovaanuta2@gmail.com
 
 
