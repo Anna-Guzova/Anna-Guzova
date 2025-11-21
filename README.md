@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Anna :wave:
 
 <!--
 **Anna-Guzova/Anna-Guzova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
