@@ -17,10 +17,9 @@ I am studying programming languages, English, and am interested in fitness.
 
 ### **Technical Skills** :computer:
 
-- HTML
-- CSS, SASS
+- HTML/ CSS
 - JavaScript
-- React
+- React/React Native
 - Node.js
 - Git
 
