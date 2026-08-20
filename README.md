@@ -2,7 +2,7 @@
 
 ---
 
-## **I'm intern fullstack developer** :turtle:
+## **I'm Junior Frontend / Full-Stack Developer** :turtle:
 
 ---
 
@@ -13,15 +13,11 @@
 
 ### **About Me** :thought_balloon:
 
-I am studying programming languages, English, and am interested in fitness.
+Currently building practical experience in modern web development.
 
 ### **Technical Skills** :computer:
 
-- HTML/ CSS
-- JavaScript
-- React/React Native
-- Node.js
-- Git
+React · TypeScript · Node.js · Express · MongoDB
 
 ### **Soft Skills** :high_brightness:
 
