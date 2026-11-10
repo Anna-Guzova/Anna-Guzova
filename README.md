@@ -2,7 +2,7 @@
 
 ---
 
-## **I'm Junior Frontend / Full-Stack Developer** :turtle:
+## **I'm Junior QA** :turtle:
 
 ---
 
